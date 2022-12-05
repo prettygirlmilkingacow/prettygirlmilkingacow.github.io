@@ -7,7 +7,7 @@ body {
     </style>
   </head>
     <h1>i love you 2 the max</h1>
-[about me](aboutmefolder/me.md)
+[about me](me.md)
 <h2 style="color:purple;">FEEL THE MAGIC</h2>
 <body style="background-color:orchid;">
 </body>
