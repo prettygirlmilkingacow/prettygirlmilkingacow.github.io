@@ -5,9 +5,14 @@
   [about me](aboutmefolder/me.md)
 <html>
 <body background="IMG_3972.jpg">
-<img src="pcoddxGLi.gi">
+<img style="background-color: rgba(255,255,255,0);
+src="pcoddxGLi.gif">
   <div>
 <img src="https://user-images.githubusercontent.com/119459564/205533711-3a6fb140-c136-420d-b300-28f09d5574f6.jpg"
 width="300"
-height="300"><img src="1113638.gif">
+height="300"><img style="background-color: rgba(255,255,255,0);
+                src="1113638.gif"
+                width="250"
+                height="175">
+          
 
