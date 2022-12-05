@@ -1,6 +1,8 @@
 <html>
 <h1>i love you 2 the max</h1>
-<h4>[about me](aboutmefolder/me.md)</h4>
+</html>
+[about me](aboutmefolder/me.md)
+<html>
 <h2 style="color:purple;">FEEL THE MAGIC</h2>
 <body style="background-color:pink;">
 </body>
