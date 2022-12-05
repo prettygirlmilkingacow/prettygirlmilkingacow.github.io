@@ -5,12 +5,12 @@
   [about me](aboutmefolder/me.md)
 <html>
 <body background="IMG_3972.jpg">
-<img style="background-color: rgba(255,255,255,0);
+<img style="background:none";
 src="pcoddxGLi.gif">
   <div>
 <img src="https://user-images.githubusercontent.com/119459564/205533711-3a6fb140-c136-420d-b300-28f09d5574f6.jpg"
 width="300"
-height="300"><img style="background-color: rgba(255,255,255,0);
+height="300"><img style="background:none";
                 src="1113638.gif"
                 width="250"
                 height="175">
