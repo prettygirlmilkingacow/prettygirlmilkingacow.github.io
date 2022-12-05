@@ -1,7 +1,7 @@
 [about me](aboutmefolder/me.md)
 # iloveyou2themax
 <html>
-<h4 style="color:purple;">FEEL THE MAGIC</h1>
+<h2 style="color:purple;"> FEEL THE MAGIC </h1>
 <body style="background-color:orchid;">
 </body>
 </html>
