@@ -2,7 +2,7 @@
 # iloveyou2themax
 <html>
 <h2 style="color:purple;">FEEL THE MAGIC!
-"font-face:ledlight</h2>
+"font-face:ledlight;"</h2>
 <body style="background-color:orchid;">
 </body>
 </html>
