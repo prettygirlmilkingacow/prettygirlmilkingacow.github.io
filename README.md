@@ -1,5 +1,5 @@
 <html>
-<h1>&#10036;i love you 2 the max &#10036;</h1>
+<h1 style="font-family:luminari;">&#10036;i love you 2 the max &#10036;</h1>
   </html>
   [about me](aboutmefolder/me.md)
 <html>
