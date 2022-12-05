@@ -5,8 +5,9 @@
   [about me](aboutmefolder/me.md)
 <html>
 <body background="IMG_3972.jpg">
-<img src="https://raw.githubusercontent.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/main/pcoddxGLi.gif">
+<img src="pcoddxGLi.gi">
+  <div>
 <img src="https://user-images.githubusercontent.com/119459564/205533711-3a6fb140-c136-420d-b300-28f09d5574f6.jpg"
 width="300"
-height="300"><img             src="https://raw.githubusercontent.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/main/1113638.gif">
+height="300"><img src="1113638.gif">
 
