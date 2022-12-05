@@ -2,7 +2,7 @@
 <html>
 <h1
   font-family: font1;
-  src: "LEDLIGHT.otf">   iloveyou2themax</h1>
+  src: "LEDLIGHT.otf">i love you 2 the max</h1>
 <h2 style="color:purple;">FEEL THE MAGIC</h2>
 <body style="background-color:orchid;">
 </body>
