@@ -1,8 +1,6 @@
 [about me](aboutmefolder/me.md)
 <html>
-<h1
-  font-family: font1;
-  src: "https://github.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/blob/fe31b2fc5571250c8a878a6b265a155746ca5765/aboutmefolder/LEDLIGHT.otf">i love you 2 the max</h1>
+<h1>i love you 2 the max</h1>
 <h2 style="color:purple;">FEEL THE MAGIC</h2>
 <body style="background-color:orchid;">
 </body>
