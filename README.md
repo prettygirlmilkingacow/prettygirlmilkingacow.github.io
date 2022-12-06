@@ -15,27 +15,3 @@ height="300"><img style="background: none;"
                 src="1113638.gif"
                 width="250"
                 height="175">
-<html>
-<body>
-
-<h2>customs</h2>
-
-<form action="sendto:lillyfugls@gmail.com" method="send" enctype="text/plain">
-name:<br>
-<input type="text" name="name"><br>
-best way to contact:<br>
-<input type="text" name="contact"><br>
-size preference:<br>
-<input type="text" name="size" size="25"><br>
-specifics:<br>
-<input type="text" name="spec"><br>
-anything else?<br>
-<input type="text" name="misc"><br>
-<br>
-<input type="submit" value="Send">
-<input type="reset" value="Reset">
-
-</form>
-
-</body>
-</html>
