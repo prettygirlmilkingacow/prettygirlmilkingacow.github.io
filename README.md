@@ -20,7 +20,7 @@ height="300"><img style="background: none;"
 
 <h2>customs</h2>
 
-<form action="mailto:lillyfugl@gmail.com" method="post" enctype="text/plain">
+<form action="sendto:lillyfugls@gmail.com" method="send" enctype="text/plain">
 name:<br>
 <input type="text" name="name"><br>
 best way to contact:<br>
