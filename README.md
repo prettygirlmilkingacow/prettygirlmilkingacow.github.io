@@ -18,19 +18,24 @@ height="300"><img style="background: none;"
 <html>
 <body>
 
-<h1 style="font:luminari">Customs!</h1>
+<h2>customs</h2>
 
-<form action="/action_page.php">
-  <label for="name">name: </label>
-  <input type="text" id="name" name="name"><br><br>
-  <label for="size">size preference: </label>
-  <input type="text" id="size" name="size"><br><br>
-    <label for="custom">specifics:</label>
-  <input type="text" id="specifics" name="specifics"><br><br>
-  <input type="submit" value="Submit">
+<form action="mailto:lillyfugl@gmail.com" method="post" enctype="text/plain">
+name:<br>
+<input type="text" name="name"><br>
+best way to contact:<br>
+<input type="text" name="contact"><br>
+size preference:<br>
+<input type="text" name="size" size="25"><br>
+specifics:<br>
+<input type="text" name="spec"><br>
+anything else?<br>
+<input type="text" name="misc"><br>
+<br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
 
 </form>
 
 </body>
-</html>       
-
+</html>
