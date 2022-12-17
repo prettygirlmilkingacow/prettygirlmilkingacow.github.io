@@ -26,15 +26,17 @@
            width="400px"
            height="500px"
            position: fixed;
-           animation-name: feelthe;
+           top: 20px;
+           right: 5px;
+           animation-name:image;
            animation-duration: 3s;
            animation-iteration-count: infinite;}>
           
-@keyframes feelthe {
-0% {background-color:none; right:0px; top:0px;}
-50% {background-color:none; right:50px: top:0px;}
-100% {background-color:none; right:0px; top:0px;}
+@keyframes image {
+0% {background-color:none; right:5px; top:20px;}
+50% {background-color:none; right:50px: top:20px;}
+100% {background-color:none; right:5px; top:20px;}
             }
 </head>
 </style>           
-            </html>
+       
