@@ -14,6 +14,7 @@
      width="250"
      height="250"
      align="left">
+             <div>
 <img style="background: none;"
                 src="1113638.gif"
                 width="250"
