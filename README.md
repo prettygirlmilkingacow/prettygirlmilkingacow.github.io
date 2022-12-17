@@ -33,10 +33,12 @@
            animation-iteration-count: infinite;}>
           
 @keyframes image {
-0% {background-color:none; right:5px; top:20px;}
-50% {background-color:none; right:50px: top:20px;}
-100% {background-color:none; right:5px; top:20px;}
+from { 0% {background-color:none; right:5px; top:20px;} 
             }
+to { 50% {background-color:none; right:50px: top:20px;}
+            }
+to { 100% {background-color:none; right:5px; top:20px;}
+            } }
 </head>
 </style>           
        
