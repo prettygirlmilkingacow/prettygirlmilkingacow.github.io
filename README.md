@@ -16,7 +16,8 @@
 <img style="background: none;"
                 src="1113638.gif"
                 width="250"
-                height="175">
+                height="175"
+     align="left">
                 
  <head>
   <img  src="https://raw.githubusercontent.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/main/FEEL%20THE-01%20web.png"
