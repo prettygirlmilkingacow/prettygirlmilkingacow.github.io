@@ -24,7 +24,7 @@
            width="400px"
            height="500px"
            align="right";
-           "top">
+           vertical-align="top">
           
 </head>
         
