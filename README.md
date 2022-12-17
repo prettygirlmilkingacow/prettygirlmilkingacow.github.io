@@ -33,5 +33,6 @@
 0% {background-color:none; right:0px; top:0px;}
 50% {background-color:none; right:50px: top:0px;}
 100% {background-color:none; right:0px; top:0px;}
-</style>
+            }
 </head>
+             
