@@ -12,7 +12,8 @@
 <img style="background:none;"
      src="4T9o7eqjc.gif"
      width="250"
-     height="250">
+     height="250"
+     align="left">
 <img style="background: none;"
                 src="1113638.gif"
                 width="250"
