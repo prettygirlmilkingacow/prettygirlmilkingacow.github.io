@@ -19,7 +19,6 @@
                 height="175">
                 
  <head>
- <style>
   <img class="image"
        src="FEEL THE-01 web.png"
      style="background: none;"
@@ -40,5 +39,5 @@ to { 50% {background-color:none; right:50px: top:20px;}
 to { 100% {background-color:none; right:5px; top:20px;}
             } }
 </head>
-</style>           
+        
        
