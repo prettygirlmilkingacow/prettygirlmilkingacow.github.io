@@ -1,7 +1,11 @@
 <html>
 <p style="font-family:luminari;
-           font-size:50px">&#10036; i love you 2 the max &#10036;
-           img src=</p>
+          font-size:50px">&#10036; i love you 2 the max &#10036;</p><img src="1113638.gif"
+                                                                         style="background:none"
+                                                                         align=right"
+           width="200"
+           height="150">
+           
            
   <h2><a href="artfolder/art.html" 
   style="color: white;
@@ -27,11 +31,6 @@
      height="250"
      align="left">
              <div>
-<img style="background: none;"
-                src="1113638.gif"
-                width="250"
-                height="175"
-     align="left">
-                
+
         
        
