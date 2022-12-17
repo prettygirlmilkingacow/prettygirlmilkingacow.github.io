@@ -20,7 +20,8 @@
                 
  <head>
  <style>
-  <div id="FEEL THE-01 web.png"
+  <img class="image"
+       src="FEEL THE-01 web.png"
      style="background: none;"
            width="400px"
            height="500px"
