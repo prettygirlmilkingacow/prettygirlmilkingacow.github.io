@@ -1,8 +1,8 @@
 <html>
 <h1 style="font-family:luminari;
            font-size:40px">&#10036; i love you 2 the max &#10036;</h1>
-  <h2><a href="artfolder/art.html" style="color: white;"
-  "background-color: red;">CLICK HERE</a></h2>
+  <h2><a href="artfolder/art.html" style="color: white;
+  background-color: red;">CLICK HERE</a></h2>
            </html>
   [about me](aboutmefolder/me.html)
 <html>
