@@ -10,7 +10,7 @@
   <h2><a href="artfolder/art.html" 
   style="color: white;
   background-color: purple;
-  font-family:luminari;">CLICK HERE</a></h2>
+  font-family:luminari;">&#x2192  CLICK HERE  &#x2190;</a></h2>
            </html>
   [about me](aboutmefolder/me.html)
 <html>
