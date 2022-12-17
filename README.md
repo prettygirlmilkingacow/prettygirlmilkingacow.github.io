@@ -9,6 +9,10 @@
 <img style="background:none;"
      src="pcoddxGLi.gif">
   <div>
+<img style="background:none;"
+     src="4T9o7eqjc.gif"
+     width="250"
+     height="250">
 <img style="background: none;"
                 src="1113638.gif"
                 width="250"
