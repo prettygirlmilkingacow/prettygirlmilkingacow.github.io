@@ -11,10 +11,9 @@
   style="color: white;
   background-color: purple;
   font-family:luminari;">&#x2192;  CLICK HERE  &#x2190;</a></h2>
-
-           <h3><a href="aboutmefolder/me.html"
-                  style="color: black;
-          align="center">about mee</a></h3>
+ <h3><a href="aboutmefolder/me.html"
+                  style="color: black;"
+          align="center">about me</a></h3>
 
   <img  src="images/uoadted feelt ge.png"
      style="background: none;"
