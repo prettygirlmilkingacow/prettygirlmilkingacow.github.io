@@ -23,9 +23,7 @@
      style="background: none;"
            width="400px"
            height="500px"
-           position: fixed;
-           top: 20px;
-           right: 5px;>
+           align="right">
           
 </head>
         
