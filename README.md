@@ -1,8 +1,8 @@
 <html>
 <p style="font-family:luminari;
           font-size:50px">&#10036; i love you 2 the max &#10036;</p><img src="1113638.gif"
-                                                                         style="background:none"
-                                                                         align=right"
+                                                                         style="background:none;
+                                                                         align:right;"
            width="200"
            height="150">
            
