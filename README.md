@@ -20,13 +20,12 @@
                 
  <head>
   <img src="FEEL THE-01 web.png"
-     style= {
-           width: 400px;
-           height: 500px;
-           background-color: none;
+     style="background: none;"
+           width="400px"
+           height="500px"
            position: fixed;
            animation-name: feelthe;
-           animation duration: 3s;
+           animation-duration: 3s;
            animation-iteration-count: infinite;}>
           
 @keyframes feelthe {
