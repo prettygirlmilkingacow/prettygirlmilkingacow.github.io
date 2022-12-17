@@ -19,7 +19,8 @@
                 height="175">
                 
  <head>
-  <img src="FEEL THE-01 web.png"
+ <style>
+  <div id="FEEL THE-01 web.png"
      style="background: none;"
            width="400px"
            height="500px"
@@ -34,4 +35,4 @@
 100% {background-color:none; right:0px; top:0px;}
             }
 </head>
-             
+</style>           
