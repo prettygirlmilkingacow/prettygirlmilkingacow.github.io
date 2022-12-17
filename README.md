@@ -19,16 +19,16 @@
                 height="175">
                 
  <head>
- <style>
- div { <img src="FEEL THE-01 web.png">
+  <img src="FEEL THE-01 web.png"
+     style= {
            width: 400px;
            height: 500px;
            background-color: none;
            position: fixed;
            animation-name: feelthe;
            animation duration: 3s;
-           animation-iteration-count: infinite;
-           }
+           animation-iteration-count: infinite;}>
+          
 @keyframes feelthe {
 0% {background-color:none; right:0px; top:0px;}
 50% {background-color:none; right:50px: top:0px;}
