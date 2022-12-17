@@ -19,22 +19,14 @@
                 height="175">
                 
  <head>
-  <img class="image"       src="https://raw.githubusercontent.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/main/FEEL%20THE-01%20web.png"
+  <img  src="https://raw.githubusercontent.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/main/FEEL%20THE-01%20web.png"
      style="background: none;"
            width="400px"
            height="500px"
            position: fixed;
            top: 20px;
-           right: 5px;
-           animation-name:image;
-           animation-duration: 3s;
-           animation-iteration-count: infinite;}>
+           right: 5px;>
           
-@keyframes image {
-0% {background-color:none; right:5px; top:20px;} 
-50% {background-color:none; right:50px: top:20px;}
-100% {background-color:none; right:5px; top:20px;}
-            }
 </head>
         
        
