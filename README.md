@@ -42,12 +42,14 @@
                        font-size:20px;">
   <form action=" https://github.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/blob/da26b5efc77362a95434a119995f69d46ee9c50e/action_page.php  ">
    
-            <label for="dreams">what have you been dreaming about</label><br>
+            <label for="dreams"
+                   style="font-family:luminari;
+                          font-size:20px;">what have you been dreaming about</label><br>
   <input type="text" id="dreams" name="dreams" value=""><br>
   <input type="submit" value="send"
          style="background-color:purple;
                 color:white;">
-</body>
+
 </form> 
 
 
