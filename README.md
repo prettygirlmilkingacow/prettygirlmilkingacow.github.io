@@ -6,10 +6,11 @@
            height="150"><p style="font-family:luminari;
           font-size:50px">&#10036; i love you 2 the max &#10036;</p>
            
-  <h2><a href="artfolder/art.html" 
+  <p><a href="artfolder/art.html" 
   style="color: white;
   background-color: purple;
-  font-family:luminari;">&#x2192;  CLICK HERE  &#x2190;</a></h2>
+  font-family:luminari;
+            font-size:25px;">&#x2192;  CLICK HERE  &#x2190;</a></p>
  <h3><a href="aboutmefolder/me.html"
                   style="color: black;"
           text-align="center">about me</a></h3>
