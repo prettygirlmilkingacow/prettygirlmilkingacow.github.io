@@ -39,6 +39,10 @@
                        <br>
 <form>
   <form action=" https://github.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/blob/da26b5efc77362a95434a119995f69d46ee9c50e/action_page.php  ">
+            input, textarea {
+  font-family:luminari;
+  font-size: 20px;
+}
             <label for="dreams">what have you been dreaming about</label><br>
   <input type="text" id="dreams" name="dreams" value=""><br>
   <input type="submit" value="send"
