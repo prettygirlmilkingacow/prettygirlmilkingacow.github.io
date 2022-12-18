@@ -36,6 +36,20 @@
      width="275"
      height="200"
      align="left">
+<html>
+<body>
 
+
+<form>
+  <label for="color"><style="font-family:luminari;">whats your favorite color</label><br>
+  <input type="text" id="color" name="color" value=""><br><br>
+  <label for="dream"><style="font-family:luminari;">what have you been dreaming about recently</label><br>
+  <input type="text" id="lname" name="lname" value=""><br><br>
+  <input type="submit" value="send"; style="background-color:purple;
+  color:white">
+</form> 
+
+</body>
+</html>
         
        
