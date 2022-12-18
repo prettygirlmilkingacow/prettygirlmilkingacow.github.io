@@ -1,11 +1,10 @@
 <html>
-<img src="1113638.gif"
+<img src="images/11-2-fractal-png-picture.png"
           style="background:none;"
            align="right"
            width="200"
            height="150"><p style="font-family:luminari;
           font-size:50px">&#10036; i love you 2 the max &#10036;</p>
-           
            
   <h2><a href="artfolder/art.html" 
   style="color: white;
@@ -21,7 +20,7 @@
            height="400px"
            align="right"
            vertical-align="top">
-          
+      
 <body background="images/bgbgbg.png">
 <img style="background:none;"
      src="pcoddxGLi.gif">
@@ -31,7 +30,11 @@
      width="250"
      height="250"
      align="left">
-             <div>
+             <div><img style="background:none;"
+     src="1113638.gif"
+     width="275"
+     height="200"
+     align="left">
 
         
        
