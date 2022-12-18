@@ -42,8 +42,9 @@
 
 
 <form>
-  <label for="dream”>what have you been dreaming about</label><br>
-  <input type="text" id="dream" name="dream" value=""><br><br>
+  <form action="/action_page.php">
+  <label for="q”>what have you been dreaming about</label><br>
+  <input type="text" id="q" name="q" value=""><br><br>
   <input type="submit" value="send">
 </form> 
 
