@@ -12,7 +12,7 @@
   font-family:luminari;
             font-size:25px;">&#x2192;  CLICK HERE  &#x2190;</a></p>
  <h3><a href="aboutmefolder/me.html"
-                  style="color: black;"
+                  style="color: crimson;"
           text-align="center">about me</a></h3>
 
   <img  src="images/uoadted feelt ge.png"
