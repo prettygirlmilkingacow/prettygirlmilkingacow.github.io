@@ -11,21 +11,6 @@
   background-color: purple;
   font-family:luminari;
             font-size:25px;">&#x2192;  CLICK HERE  &#x2190;</a></p>
-          <form>
-          <body style="font-family:luminari;
-                       font-size:20px;">
-  <form action=" https://github.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/blob/da26b5efc77362a95434a119995f69d46ee9c50e/action_page.php  ">
-   
-            <label for="dreams"
-                   style="font-family:luminari;
-                          font-size:20px;">what have you been dreaming about</label><br>
-  <input type="text" id="dreams" name="dreams" value=""><br>
-  <input type="submit" value="send"
-         style="background-color:purple;
-                color:white;">
-
-</form> 
-
  <h3><a href="aboutmefolder/me.html"
                   style="color: black;"
           text-align="center">about me</a></h3>
@@ -39,7 +24,20 @@
       
 <body background="images/bgbgbg.png">
 <img style="background:none;"
-     src="pcoddxGLi.gif">
+     src="pcoddxGLi.gif"><form>
+          <body style="font-family:luminari;
+                       font-size:20px;">
+  <form action=" https://github.com/prettygirlmilkingacow/prettygirlmilkingacow.github.io/blob/da26b5efc77362a95434a119995f69d46ee9c50e/action_page.php  ">
+   
+            <label for="dreams"
+                   style="font-family:luminari;
+                          font-size:20px;">what have you been dreaming about</label><br>
+  <input type="text" id="dreams" name="dreams" value=""><br>
+  <input type="submit" value="send"
+         style="background-color:purple;
+                color:white;">
+
+</form> 
   <div>
 <img style="background:none;"
      src="4T9o7eqjc.gif"
